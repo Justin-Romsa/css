@@ -1,0 +1,229 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #5EDFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.125rem;
+}
+
+h1 {
+  font-size: 4.125rem;
+  font-family: 'Rancho', cursive;
+  margin-bottom: 0;
+  font-weight: 100;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 'Cinzel', serif;
+  margin-left: 10px;
+}
+
+h3 {
+  font-family: 'Cinzel', monospace;
+}
+
+.program {
+  font-family: 'Major Mono Display', monospace;
+  font-size: 2.0625rem;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-variant: small-caps;
+  margin-top: 0;
+  font-size: 1.125rem;
+  line-height: 1.25;
+}
+
+.container-one {
+  height: 39px;
+  width: 69px;
+  position: relative;
+  left: 769px;
+}
+
+.container-three-5 {
+  position: relative;
+  height: 20px;
+  width: auto;
+  left: 890px;
+  top: 75px;
+  font-size: 23px;
+  font-family: 'Cinzel', monospace;
+  ;
+}
+
+.new {
+  font-size: 33px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container-three {
+  position: relative;
+  left: 139px;
+  bottom: 39px;
+  width: auto;
+}
+
+img {
+  position: relative;
+  left: 20px;
+  top: 0;
+}
+
+.container-four {
+  border-top: 3mm ridge #e62e00;
+  border-bottom: 3mm ridge #e62e00;
+  background-color: #4d70ff;
+  height: 1477px;
+}
+
+.me {
+  position: relative;
+  margin-top: 33px;
+  margin-right: 36px;
+  margin-bottom: 0px;
+}
+
+.hello {
+  margin-bottom: 66px;
+  margin-top: 66px;
+}
+
+.profile {
+  font-variant: small-caps;
+  position: static;
+  margin-right: 369px;
+  margin-left: 369px;
+  margin-bottom: 33px;
+  margin-top: 33px;
+}
+
+hr {
+  border: none;
+  border-bottom: 6px dotted #e62e00;
+  width: 6%;
+}
+
+.professional-accomplishments {
+  margin: 66px auto 66px auto;
+}
+
+.metrology {
+  width: 296px;
+  margin: 50px 10px 259px;
+}
+
+.metrology-paragraph {
+  position: relative;
+  text-align: left;
+  margin: 99px 20px 99px 79px;
+  line-height: 1.5;
+}
+
+.met-pic {
+  width: 19%;
+  float: left;
+  margin-right: 39px;
+  margin-left: auto;
+  margin-top: 0px;
+}
+
+.bus-owner {
+  margin-right: 978px;
+}
+
+.mata-grande {
+  position: relative;
+  text-align: left;
+  line-height: 1.5;
+  margin: 22px 99px 99px 99px;
+}
+
+.mgg-pic {
+  float: right;
+  width: 19%;
+  margin-right: 23px;
+  margin-top: 9px;
+}
+
+.website-d {
+  margin-right: 463px;
+}
+
+.web-designparagraph {
+  position: relative;
+  text-align: justify;
+  margin: 20px 149px 79px 99px;
+  line-height: 1.5;
+}
+
+.web-pic {
+  width: 19%;
+  float: left;
+  margin-right: 39px;
+  margin-top: 1px;
+}
+
+.footer-email {
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 2.0625rem;
+  font-variant: small-caps;
+}
+
+.footer-web {
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 2.0625rem;
+  font-variant: small-caps;
+}
+
+.btn {
+  box-shadow: 0px 1px 0px 0px #f0f7fa;
+  background: linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+  background-color: #33bdef;
+  border-radius: 9px;
+  border: 3px solid #057fd0;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Verdana;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 9px 33px;
+  text-decoration: none;
+  text-shadow: 0px 3px 0px #5b6178;
+  margin-bottom: 33px;
+  margin-top: 15px;
+}
+
+.btn:hover {
+  background: linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+  background-color: #019ad2;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+}
+
+.footer-container {
+  font-size: 2.4375rem;
+  background-color: #4d70ff;
+  height: 50px;
+  margin-bottom: 33px;
+}
+
+.footer {
+  color: #f0f7fa;
+  font-size: 12px;
+  margin-top: 33px;
+  margin-bottom: 0px;
+  background-color: #4d70ff;
+}
